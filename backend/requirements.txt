@@ -1,0 +1,7 @@
+azure-functions
+azure-search-documents
+azure-ai-formrecognizer
+azure-storage-blob
+openai
+requests
+python-dotenv
